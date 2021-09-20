@@ -7,5 +7,5 @@ Various repeats datasets used in publications.
 You can cite the datasets as:
 
 ```
-Komissarov (2021). Repeats datasets (Version 1.0.0) [Dataset]. https://doi.org/10.5281/zenodo.5503677
+Aleksey Komissarov (2021). Repeats datasets (Version 1.0.0) [Dataset]. https://doi.org/10.5281/zenodo.5503677
 ```
